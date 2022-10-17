@@ -172,7 +172,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 ### Potti Hemanth
 LinkedIn - [HemanthPotti](https://www.linkedin.com/in/hemanth-potti/)
-Project Link - [Portfolio Website](https://github.com/your_username/repo_name)
+Project Link - [Portfolio Website](https://github.com/Hemanth694/Portfolio-Website)
 Email - prakashbhimavaram@gmail.com
   
 <p   ign="right">(<a href="#readme-top">back to top</a>)</p>
