@@ -33,7 +33,6 @@
   <p align="center">
     A website that helps you to kickstart your career!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
