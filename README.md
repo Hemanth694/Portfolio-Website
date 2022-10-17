@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://p.kindpng.com/picc/s/394-3941580_portfolio-circle-hd-png-download.png" alt="Logo" width="25%" height="25%">
   </a>
 
   <h3 align="center">Portfolio Website</h3>
