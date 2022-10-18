@@ -73,7 +73,7 @@
 
 <!-- SCREENSHOT 1 -->
 
-This portfolio website has simple yet unique design which is really easy to understand. EMployers can look at it with ease, ultimately increasing your chaces to get in your dream company. 
+This portfolio website has simple yet unique design which is really easy to understand. Employers can look at it with ease, ultimately increasing your chaces to get in your dream company. 
 
 The home page consists of the following details,
 ### Your name and a photo
