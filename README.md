@@ -129,47 +129,33 @@ This website uses the latest technologies and powerful libraries to give the bes
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+As discussed above your machine must have all the necessary libraries installed beforehand. Let us look at all the possible libraries you'd require :-
+* React
+* Axios
+* uuid
+* flask
+* pymysql
+* datetime
+* cryptography
+* logging
+* serve
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Now the only prerequisite is to have npm installed in your machine. If not please use the following snippet in your command prompt/ command line to get npm in your machine!
+
+
 * npm
   ```sh
   npm install npm@latest -g
   ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-### Potti Hemanth
+#### Potti Hemanth
 
 LinkedIn - [HemanthPotti](https://www.linkedin.com/in/hemanth-potti/)
 <br>
