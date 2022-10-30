@@ -110,7 +110,7 @@ This last feature is to add a project or a blog, basically if the owner wishes t
 
 ### Built With
 
-This website uses the latest technologies and powerful libraries to give the best outcomes. The following technologies and libraries have been used to power up this projec :-
+This website uses the latest technologies and powerful libraries to give the best outcomes. The following technologies and libraries have been used to power up this project :-
 
 
 * [![React][React.js]][React-url]
